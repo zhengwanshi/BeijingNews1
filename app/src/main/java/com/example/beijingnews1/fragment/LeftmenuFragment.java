@@ -33,7 +33,7 @@ public class LeftmenuFragment extends com.example.beijingnews1.fragment.BaseFrag
     protected void initData() {
         super.initData();
         LogUtil.e("hehehe-------------------------");
-        mTextView.setText("左侧菜单的页面");
+        mTextView.setText("左侧菜单的页面.hehhe");
 
     }
 }
