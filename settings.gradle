@@ -1,1 +1,4 @@
-include ':app', ':SlidingMenu_library'
+include ':app', ':SlidingMenu_library', ':xutils', ':xUtils3_sample', ':RefreshListView', ':JPushExample(855967)', ':Image-Loader_sample', ':Image_Loader_library', ':PhotoView_sample', ':photoview', ':ok_http_simple', ':sample-okhttp', ':okhttputils_library', 'OkHttpUtils-masters', ':okhttpserver', ':okhttputils'
+include ':ViewPagerIndicator_library'
+include ':ViewPagerIndicator_sample'
+include ':PullToRefesh_library'

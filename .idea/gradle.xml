@@ -9,8 +9,25 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Image-Loader_sample" />
+            <option value="$PROJECT_DIR$/Image_Loader_library" />
+            <option value="$PROJECT_DIR$/JPushExample(855967)" />
+            <option value="$PROJECT_DIR$/OkHttpUtils-masters" />
+            <option value="$PROJECT_DIR$/PhotoView_sample" />
+            <option value="$PROJECT_DIR$/PullToRefesh_library" />
+            <option value="$PROJECT_DIR$/RefreshListView" />
             <option value="$PROJECT_DIR$/SlidingMenu_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_library" />
+            <option value="$PROJECT_DIR$/ViewPagerIndicator_sample" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ok_http_simple" />
+            <option value="$PROJECT_DIR$/okhttpserver" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/okhttputils_library" />
+            <option value="$PROJECT_DIR$/photoview" />
+            <option value="$PROJECT_DIR$/sample-okhttp" />
+            <option value="$PROJECT_DIR$/xUtils3_sample" />
+            <option value="$PROJECT_DIR$/xutils" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

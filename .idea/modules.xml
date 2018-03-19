@@ -3,8 +3,25 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BeijingNews1.iml" filepath="$PROJECT_DIR$/BeijingNews1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Image-Loader_sample/Image-Loader_sample.iml" filepath="$PROJECT_DIR$/Image-Loader_sample/Image-Loader_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Image_Loader_library/Image_Loader_library.iml" filepath="$PROJECT_DIR$/Image_Loader_library/Image_Loader_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPushExample(855967)/JPushExample(855967).iml" filepath="$PROJECT_DIR$/JPushExample(855967)/JPushExample(855967).iml" />
+      <module fileurl="file://$PROJECT_DIR$/OkHttpUtils-masters/OkHttpUtils-masters.iml" filepath="$PROJECT_DIR$/OkHttpUtils-masters/OkHttpUtils-masters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView_sample/PhotoView_sample.iml" filepath="$PROJECT_DIR$/PhotoView_sample/PhotoView_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefesh_library/PullToRefesh_library.iml" filepath="$PROJECT_DIR$/PullToRefesh_library/PullToRefesh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefreshListView/RefreshListView.iml" filepath="$PROJECT_DIR$/RefreshListView/RefreshListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" filepath="$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_sample/ViewPagerIndicator_sample.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_sample/ViewPagerIndicator_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ok_http_simple/ok_http_simple.iml" filepath="$PROJECT_DIR$/ok_http_simple/ok_http_simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpserver/okhttpserver.iml" filepath="$PROJECT_DIR$/okhttpserver/okhttpserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils_library/okhttputils_library.iml" filepath="$PROJECT_DIR$/okhttputils_library/okhttputils_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photoview/photoview.iml" filepath="$PROJECT_DIR$/photoview/photoview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" filepath="$PROJECT_DIR$/sample-okhttp/sample-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xUtils3_sample/xUtils3_sample.iml" filepath="$PROJECT_DIR$/xUtils3_sample/xUtils3_sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils/xutils.iml" filepath="$PROJECT_DIR$/xutils/xutils.iml" />
     </modules>
   </component>
 </project>

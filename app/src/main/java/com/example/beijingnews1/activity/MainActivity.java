@@ -1,8 +1,12 @@
 package com.example.beijingnews1.activity;
 
-import android.app.FragmentManager;
-import android.app.FragmentTransaction;
+
+import android.support.v4.app.FragmentManager;
+//import android.app.FragmentManager;
+//import android.app.FragmentTransaction;
+
 import android.os.Bundle;
+import android.support.v4.app.FragmentTransaction;
 import android.view.Window;
 
 import com.example.beijingnews1.fragment.ContentFragment;
@@ -28,8 +32,12 @@ public class MainActivity extends SlidingFragmentActivity {
     }
 
     private void initFragment() {
-        FragmentManager fm = getFragmentManager();
-        FragmentTransaction ft = fm.beginTransaction();
+        FragmentManager fm = getSupportFragmentManager();
+       FragmentTransaction ft= fm.beginTransaction();
+
+        //FragmentManager fm = getFragmentManager();
+      //  FragmentTransaction ft = fm.beginTransaction();
+
         ft.replace(R.id.fl_main_content,new ContentFragment(),MAIN_CONTENT_TAG);
         ft.replace(R.id.fl_leftmenu,new LeftmenuFragment(),LEFTMENU_TAG);
         ft.commit();
@@ -42,5 +50,17 @@ public class MainActivity extends SlidingFragmentActivity {
         slidingMenu.setMode(SlidingMenu.LEFT);
         slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);
         slidingMenu.setBehindOffset(DensityUtil.dip2px(MainActivity.this,250));
+    }
+
+    public LeftmenuFragment getLeftmenuFragment() {
+        return  (LeftmenuFragment) getSupportFragmentManager().findFragmentByTag(LEFTMENU_TAG);
+    }
+
+    /**
+     * 得到正文Fragment
+     * @return
+     */
+    public ContentFragment getContentFragment() {
+        return (ContentFragment) getSupportFragmentManager().findFragmentByTag(MAIN_CONTENT_TAG);
     }
 }

@@ -4,9 +4,9 @@
               android:orientation="vertical"
               android:layout_width="match_parent"
               android:layout_height="match_parent">
-    <android.support.v4.view.ViewPager
+    <com.example.beijingnews1.view.NoScrollViewPager
         android:layout_width="match_parent"
-        android:id="@+id/viewpager"
+        android:id="@+id/viewpager1"
         android:layout_height="0dp"
         android:layout_weight="1"/>
         <RadioGroup
@@ -59,8 +59,8 @@
                 style="@style/bottom_tag_style"
                 />
         </RadioGroup>
-    <TextView
+    <!--<TextView
         android:layout_width="match_parent"
-        android:layout_height="45dp"/>
+        android:layout_height="45dp"/>-->
 
 </LinearLayout>

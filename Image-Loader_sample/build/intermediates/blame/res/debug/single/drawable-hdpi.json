@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\Image-Loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\Image-Loader_sample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\Image-Loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty.png",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\Image-Loader_sample\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\Image-Loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stub.png",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\Image-Loader_sample\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\Image-Loader_sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error.png",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\Image-Loader_sample\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    }
+]

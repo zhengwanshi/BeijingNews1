@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\layout\\customer_notitfication_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\layout\\customer_notitfication_layout_one.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\layout\\customer_notitfication_layout_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\layout\\push_set_dialog.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\layout\\push_set_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\layout\\set_push_time.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\layout\\set_push_time.xml"
+    }
+]

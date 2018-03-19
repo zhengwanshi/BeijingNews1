@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_progressbar.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\drawable-hdpi\\richpush_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\corners_bg.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\drawable-hdpi\\corners_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiledstripes.xml",
+        "source": "C:\\Users\\zhengyg\\AndroidStudioProjects\\BeijingNews1\\JPushExample(855967)\\res\\drawable-hdpi\\tiledstripes.xml"
+    }
+]
